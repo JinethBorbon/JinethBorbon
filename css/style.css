@@ -1,0 +1,11 @@
+
+.img_producto {
+    height: 150px;
+    object-fit: contain
+}
+
+.tabla_poductos{
+    margin-top: 30px;
+    max-width: 500px;
+    margin-bottom: 30px;
+}
